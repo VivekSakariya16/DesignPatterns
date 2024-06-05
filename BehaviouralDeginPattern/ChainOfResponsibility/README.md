@@ -1,0 +1,2 @@
+- **Chain of Responsibility Design Pattern**    
+  The Chain of Responsibility design pattern decouples the sender of a request from its receiver by giving multiple objects a chance to handle the request in a chain-like fashion. 
