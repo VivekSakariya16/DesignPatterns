@@ -1,0 +1,4 @@
+- **Observer design pattern**
+  - It defines a one-to-many dependency between objects, allowing multiple observers to be notified automatically of any state changes in the subject they are observing.
+  - It promotes loose coupling between the subject and its observers, as the subject doesn't need to know the specifics of the observers, and the observers don't need to know the details of the subject's implementation.
+  - This pattern is commonly used in event-driven systems, user interfaces, and any scenario where objects need to be notified of changes in other objects' states without tightly coupling them together.
