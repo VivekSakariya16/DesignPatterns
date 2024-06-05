@@ -1,0 +1,4 @@
+- **Memento design pattern**   
+  - It allows an object to capture and externalize its internal state without violating encapsulation, enabling the object to be restored to this state later.
+  - It promotes a clear separation of responsibilities: the Originator manages the state and creates mementos, the Memento stores the state snapshot, and the CareTaker manages the mementos without accessing the Originator's state directly.
+  - This pattern is useful for implementing undo/redo functionality, checkpointing, transaction-based systems, and other scenarios where an object's state needs to be saved and restored without exposing its implementation details.
