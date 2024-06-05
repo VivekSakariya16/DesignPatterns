@@ -1,0 +1,2 @@
+- **Facade Design Pattern:**  
+  The Facade design pattern in a mobile shop scenario. The ShopKeeper class acts as the Facade, providing a simplified interface to interact with different mobile shop subsystems (Samsung, Apple, and Moto). It decouples the client code from the complexities of the subsystems, promoting loose coupling and easier maintenance.
