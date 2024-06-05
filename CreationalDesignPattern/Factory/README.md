@@ -1,0 +1,2 @@
+- **Factory Design Pattern**  
+  This pattern introduces loose coupling between classes which is the most important principle one should consider when designing the application architecture. Loose coupling can be introduced in application architecture by programming against abstract entities rather than concrete implementations. This makes the architecture more flexible. 
