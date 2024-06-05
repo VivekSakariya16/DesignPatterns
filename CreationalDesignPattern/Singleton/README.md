@@ -1,0 +1,2 @@
+- **Proxy Design Pattern:**  
+  The Singleton pattern is useful in scenarios where we need to control the instantiation of a class and ensure that only one instance exists throughout the application. It provides a global access point to that instance, allowing you to manage and share resources efficiently.
