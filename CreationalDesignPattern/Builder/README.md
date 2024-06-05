@@ -1,0 +1,2 @@
+- **Builder Design Pattern:**  
+A builder design pattern construct complex objects step by step. The pattern allows us to produce different types and representations of an object using the same construction code.
